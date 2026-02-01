@@ -15,3 +15,6 @@ application using polynomial regression for business decision-making.
 ## Run
 pip install -r requirements.txt  
 streamlit run app.py
+
+#app
+https://polynomial-business-app-sxjenzrpvcfywgrajwqydv.streamlit.app
